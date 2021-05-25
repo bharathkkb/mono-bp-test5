@@ -2,4 +2,4 @@
 
 This blueprint deploys a single bucket into Google Cloud test
 
-feat
+new bucket only
