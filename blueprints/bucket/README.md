@@ -3,3 +3,4 @@
 This blueprint deploys a single bucket into Google Cloud test
 
 new bucket only
+test
