@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.3.0](https://www.github.com/bharathkkb/mono-bp-test5/compare/bucket-blueprint-v0.2.1...bucket-blueprint-v0.3.0) (2021-05-25)
+
+
+### Features
+
+* new bucket feat ([c93f428](https://www.github.com/bharathkkb/mono-bp-test5/commit/c93f42838c335efe42771474aadd13b3b1dd8b35))
+
 ### [0.2.1](https://www.github.com/bharathkkb/mono-bp-test5/compare/bucket-blueprint-v0.2.0...bucket-blueprint-v0.2.1) (2021-05-25)
 
 
