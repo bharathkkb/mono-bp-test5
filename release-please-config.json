@@ -9,7 +9,7 @@
         "changelog-path": "CHANGELOG.md"
       }
     },
-    "bootstrap-sha": "7f140fd4bdc61df76be819d183aba5fce5b6053b",
+    "bootstrap-sha": "d5426588327d9bd1ad11a49a2f2272185a3b50dc",
     "release-type": "simple",
     "bump-minor-pre-major": true
   }
